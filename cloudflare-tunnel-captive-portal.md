@@ -6,7 +6,7 @@ port 443
 
 ## On the server:
 
-###1. Install cloudflared (Cloudflare's official method):
+### 1. Install cloudflared (Cloudflare's official method):
 
 ```bash
 sudo mkdir -p --mode=0755 /usr/share/keyrings

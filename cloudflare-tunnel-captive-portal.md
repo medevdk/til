@@ -45,7 +45,7 @@ Domain name = 'unlomaps.com'
 cloudflared tunnel route dns faryland ssh.unlomaps.com
 ```
 
-Optional: test if the connection is live by (run on MAC):
+Optional: test if the connection is live by (run on Mac):
 
 ```bash
 dig ssh.unlomaps.com
